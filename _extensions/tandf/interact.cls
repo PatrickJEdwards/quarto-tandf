@@ -238,7 +238,7 @@
 \def\received#1{\gdef\@received{#1}}
 \def\history#1{\gdef\@received{#1}}
 \gdef\@history{\bfseries{ARTICLE HISTORY\\}\par}
-\gdef\@received{Compiled \today}
+\gdef\@received{Compiled  September 6, 2025}
 %
 \long\def\name#1{#1\\\vspace{6pt}}%
 \long\def\affil#1{\affilfont{#1}\\}
